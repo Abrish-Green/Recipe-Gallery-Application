@@ -1,0 +1,21 @@
+.App{
+    display: inline-flexbox;
+}
+.notfound-message{
+    position: absolute;
+    padding:5px 15px;
+    left:5%;
+    color: rgb(240,30,20);
+    border:5px dashed rgb(240,30,20);
+}
+.big-meta{
+    width:100%;
+    overflow-x: hidden;
+}
+.recipe-tags > a{
+    font-weight: bold;
+    color:rgb(27, 135, 185)
+}
+.post-description{
+    font-weight:400;
+}
