@@ -1,7 +1,7 @@
 # Getting Started with Repibox Recipe Gallery Application
 
 <h2>Intro</h2>
-This project is Developed for as a Challenge to Repibox Techinical Screening. The project Displays Different type of Recipes
+This project is Developed as a Challenge to Repibox Techinical Screening. The project Displays Different type of Recipes
 with their information. 
 
 <h2>Project Information</h2>
