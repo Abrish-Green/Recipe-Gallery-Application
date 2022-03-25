@@ -5,7 +5,7 @@ This project is Developed as a Challenge to Repibox Techinical Screening. The pr
 with their information. 
 
 <h2>Project Information</h2>
-It is Implemented using Javascript and React.js framework.The Core Functionality of this project are infinite scroll and search as requested in the challenge.It show recipe results in a grid format and it is also responsive for desktop and mobile.
+It is Implemented using Javascript and React.js framework.The Core Functionality of this project are infinite scroll and search as requested in the challenge.It shows recipe results in a grid format and it is also responsive for desktop and mobile.
 
 <h2>Design Pattern</h2>
 React design patterns used in this project are  render props, controlled components, conditional rendering, and react hooks. 
