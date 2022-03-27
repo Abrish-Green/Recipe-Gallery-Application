@@ -2,7 +2,7 @@ import React from 'react'
 
  const Recipe = (props) => {
   return (
-          <div className="col-lg-3 col-md-6 col-sm-12 col-xs-12 mb-3">
+          <div className="col-lg-3 col-md-6 col-sm-12 col-xs-12 mb-3" ref={props.refs}>
               <div className="blog-box">
                   <div className="post-media">
                       <a href={props.data.post_url}>    
