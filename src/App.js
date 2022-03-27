@@ -51,9 +51,8 @@ const App = ()=> {
                       recipe.map((recipeItem,index)=>{
                         if(recipe.length === index+1){
                           return (
-                            <div key={index} ref={lastRecipeElementRef}>
-                                <Recipe data={recipeItem} />
-                              </div>)
+                             <Recipe key={index} refs={lastRecipeElementRef} data={recipeItem} />
+                             )
                         }else{
                           return <Recipe key={index} data={recipeItem} />
                       }  
